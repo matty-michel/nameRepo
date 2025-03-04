@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
     //cout << "GitHub Demo" << endl;
-    print_name()
+    void print_name();
     return 0;
 }
 
