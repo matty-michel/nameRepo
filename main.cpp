@@ -3,7 +3,8 @@ using namespace std;
 
 int main()
 {
-    cout << "GitHub Demo" << endl;
+    //cout << "GitHub Demo" << endl;
+    print_name()
     return 0;
 }
 
